@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Base/RCTJSCErrorHandling.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/devinceble/Documents/semiotics-ui/example/exampleui/node_modules/react-native/React/Modules/RCTDevMenu.h
