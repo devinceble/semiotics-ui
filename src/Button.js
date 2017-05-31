@@ -3,12 +3,14 @@ import { TouchableHighlight, Text, StyleSheet } from 'react-native'; // eslint-d
 import Palette from './MainColors';
 
 const propTypes = {
+  userStyle: PropTypes.style,
   active: PropTypes.bool,
   label: PropTypes.string,
   onPress: PropTypes.func,
 };
 
 const defaultProps = {
+  userStyle: {},
   active: false,
   label: 'Button',
   onPress: () => {},
@@ -30,12 +32,14 @@ class Button extends PureComponent {
     const {
       label,
       active,
+      userStyle,
       onPress,
     } = this.props;
 
     return (
       <TouchableHighlight
-        style={[style.container, active ? style.active : style.nop]}
+        style={[style.container, active ? style.active : style.nop, userStyle.style]}
+        underlayColor={[Palette.Secondary.light]}
         onPress={onPress}
       >
         <Text>
