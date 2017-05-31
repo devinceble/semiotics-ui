@@ -1,0 +1,17 @@
+{
+  "name": "semiotics-ui",
+  "version": "0.0.1",
+  "description": "React-Native UI Base on Sematic UI React",
+  "main": "index.js",
+  "repository": "git@github.com:devinceble/semiotics-ui.git",
+  "author": "Leivince John Diez Marte <devinceble@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "16.0.0-alpha.6",
+    "react-native": "0.44.2"
+    "babel-jest": "20.0.3",
+    "babel-preset-react-native": "1.9.2",
+    "jest": "20.0.4",
+    "react-test-renderer": "16.0.0-alpha.6"
+  }
+}
