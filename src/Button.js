@@ -39,10 +39,10 @@ class Button extends PureComponent {
     return (
       <TouchableHighlight
         style={[style.container, active ? style.active : style.nop, userStyle.style]}
-        underlayColor={[Palette.Secondary.light]}
+        underlayColor={Palette.Secondary.light}
         onPress={onPress}
       >
-        <Text style={[userStyle.text]}>
+        <Text style={userStyle.text}>
           {label}
         </Text>
       </TouchableHighlight>
